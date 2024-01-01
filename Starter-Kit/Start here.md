@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 tags: type/structure, type/quote, structure/moc, structure/start
 #theme/ - build cluster 
 #index/ - define entry point
